@@ -1,7 +1,5 @@
 /* 
-   Código demonstrativo para a aula de Sistemas Operacionais II,
-   Curso de Ciência da Computação e Engenharia da Computação
-   EEP.
+   Código demonstrativo para a aula de Sistemas Operacionais II, Curso de Ciência da Computação e Engenharia da Computação, EEP.
    
    Exemplo sobre como criar, escrever, ler e remover um espaço mapeado de memória
    Para compilar use cc xxxxx.c -std=gnu99 -o xxxxx
