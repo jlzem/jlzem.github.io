@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "author": "Disciplinas FATEC",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "wokwi-arduino-nano", "id": "nano", "top": 0, "left": 0, "attrs": {} },
+    {
+      "type": "wokwi-lcd1602",
+      "id": "lcd1",
+      "top": 92.8,
+      "left": 178.4,
+      "attrs": { "pins": "i2c" }
+    }
+  ],
+  "connections": [
+    [ "lcd1:SDA", "nano:A4", "gold", [ "h0" ] ],
+    [ "lcd1:SCL", "nano:A5", "blue", [ "h0" ] ],
+    [ "lcd1:GND", "nano:GND.1", "black", [ "h0" ] ],
+    [ "lcd1:VCC", "nano:5V", "red", [ "h0" ] ]
+  ],
+  "dependencies": {}
+}
