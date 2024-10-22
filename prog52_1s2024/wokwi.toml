@@ -1,4 +1,4 @@
 [wokwi]
 version = 1
-firmware = './prog52_1s2024.in'
+firmware = './prog52_1s2024.bin'
 elf = './prog52_1s2024.elf'
