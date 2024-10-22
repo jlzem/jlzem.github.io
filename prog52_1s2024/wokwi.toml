@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = './prog52_1s2024.in'
+elf = './prog52_1s2024.elf'
