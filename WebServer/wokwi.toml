@@ -5,5 +5,5 @@ elf = './esp32-http-server.elf'
 
 # Forward http://localhost:8180 to port 80 on the simulated ESP32:
 [[net.forward]]
-from = "localhost"
+from = "localhost:8180"
 to = "target:80"
