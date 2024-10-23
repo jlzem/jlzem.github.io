@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = './GoogleWebhook.bin'
+elf = './GoogleWebhook.elf'
