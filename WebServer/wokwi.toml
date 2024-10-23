@@ -7,3 +7,4 @@ elf = './esp32-http-server.elf'
 [[net.forward]]
 from = "localhost:8180"
 to = "target:80"
+visibility = "public"
