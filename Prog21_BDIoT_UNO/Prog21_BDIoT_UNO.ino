@@ -1,7 +1,7 @@
 /* 
    Código demonstrativo para a aula de Bancos de Dados aplicados à Internet das Coisas,
    Curso de Engenharia e Administração de Sistemas de Banco de Dados,
-   Faculdade de Tecnologia - UNICAMP.
+   Faculdade de Tecnologia - UNICAMP. 
 */
 
 int pino_Led  = 13;
